@@ -1,0 +1,1941 @@
+Justin Olav Wyss-Gallifent,4.93,2.906,96
+David C. Straney,4.82,3.119,23
+Patrick M. Fitzpatri,4.82,3.111,16
+Dionisios Margetis,4.81,3.259,33
+Hugh Stetson Turner,4.79,3.597,17
+William R. Schildknecht,4.76,3.097,12
+Helene Bernier,4.75,3.135,8
+John F Kirch,4.75,3.347,8
+Katarina Keane,4.74,3.28,11
+Sandra Lee Rose,4.73,3.457,10
+Jonathan William England,4.73,3.132,14
+Christopher Kyle Andrews,4.72,3.38,7
+Elizabeth Y. Brown,4.72,3.465,7
+Bruce Jacob,4.72,3.688,7
+Sara Schotland,4.72,4.0,7
+Christopher Brian Truman,4.72,2.858,7
+Eric D. Wish,4.72,3.717,7
+Mark A. Forrester,4.7,3.196,12
+Nazish Mushtaq Salahuddin,4.7,3.561,12
+Douglas Sherman Kern,4.7,3.417,9
+Suheil B. Bushrui,4.69,3.957,6
+Eugene Herschal Cantor,4.69,3.437,6
+Donald Scott Glenn,4.69,3.519,6
+Merton Evan Lee,4.69,3.437,6
+Ana Maria Perez,4.69,3.797,6
+Naveen Sarna,4.68,2.899,17
+Gary F. Bulmash,4.68,3.028,11
+Steven Mansbach,4.66,2.973,8
+Jonathan D. Dinman,4.64,3.323,5
+Jarl Olaf Hulbert,4.64,3.563,5
+Maria J.,4.64,3.141,5
+Erika Lorraine Milam,4.64,2.913,5
+Thomas J. Murphy,4.64,2.601,5
+Randy James Ontiveros,4.64,3.501,5
+Rebecca K. Ratner,4.64,3.516,5
+Michael Odell Spivey,4.64,3.268,5
+Mahlon R. Straszheim,4.64,2.988,5
+Federica Brunori Deigan,4.63,3.251,10
+Michael Ross,4.63,2.977,10
+Lance T. Yonkos,4.63,3.464,7
+Gary A. Pertmer,4.62,3.14,13
+Colman J. McCarthy,4.61,3.735,16
+Martha A. Bari,4.61,3.07,7
+Laure Weber Brooks,4.61,3.134,9
+Chandrasekhar Thamire,4.59,3.574,15
+Jeffery T. Davis,4.59,2.87,19
+Donald Yeung,4.59,2.917,9
+Steven Anlage,4.58,3.078,4
+Ahmet H. Aydilek,4.58,3.11,4
+Melda Ina Baysal,4.58,3.431,4
+Amr M. Baz,4.58,3.262,4
+Julie A. Daberkow,4.58,2.726,4
+James F. Drake,4.58,3.251,4
+Maggie Fromm,4.58,3.656,4
+Leland Gardner,4.58,3.164,4
+Rodolphe Gentili,4.58,3.316,4
+Zhanna R Gerus-Vernola,4.58,3.606,4
+Judith P. Hallett,4.58,3.714,4
+Inas Mahmoud Hassan,4.58,3.814,4
+Dean Osmar Hebert,4.58,3.883,4
+Alison Emilia Hennessee,4.58,3.221,4
+Christopher Jarzynski,4.58,3.23,4
+Gillian Beth Knoll,4.58,3.248,4
+Lewis E. Link,4.58,3.743,4
+Charles Martin,4.58,3.42,4
+Ann M. Mason,4.58,2.99,4
+Thomas P. Mauriello,4.58,3.252,4
+William J McAdam,4.58,3.809,4
+Srinivasa R. Raghavan,4.58,3.463,4
+James A. Reggia,4.58,3.241,4
+Joseph F. Rinaldi,4.58,3.483,4
+Rika Seya,4.58,3.5,4
+Rachel Singpurwalla,4.58,3.406,4
+Melissa Sandra Duchene,4.58,3.407,6
+Denis F. Sullivan,4.58,3.896,6
+Marguerite E. Jarchow,4.58,3.016,11
+Jacqueline Stone,4.58,2.843,12
+Esther Jane Wood,4.57,2.889,8
+David Lawrence Andrews,4.56,3.106,6
+Alan Scott Nemeth,4.56,3.635,6
+Richard G. King,4.56,3.274,18
+Bruce R. James,4.56,3.354,17
+Sergei I. Sukharev,4.55,3.058,5
+Burt A. Leete,4.55,3.127,8
+Theodore B. Leinwand,4.55,2.95,8
+T Leigh Ane,4.54,3.253,13
+Mary L. Bowden,4.54,2.979,10
+Joseph Perfetti,4.53,3.612,8
+Peter Mallios,4.53,3.372,14
+Cindy Parker Driscoll,4.52,3.967,5
+Eric Hamilton,4.52,3.489,5
+Mary Beukema Harms,4.52,3.623,5
+Hubert J. Montas,4.51,3.7,8
+Lawrence C. Washington,4.5,3.337,11
+Jeffrey D. Adams,4.5,3.032,3
+Mohamed Sherif Aggour,4.5,3.418,3
+Catherine Anderson,4.5,3.776,3
+Katherine M Boyle,4.5,3.545,3
+Herve T. Campangne,4.5,3.63,3
+Evelyn Canabal-Torres,4.5,3.145,5
+Shijun Cheng,4.5,3.324,3
+Damion Ray Clark,4.5,3.191,3
+Kimberly Coles,4.5,3.329,3
+Michelle Dawn Corbin,4.5,3.633,3
+Robert Edward Crane,4.5,3.336,3
+Maureen L. Cropper,4.5,3.398,5
+Amol Deshpande,4.5,3.222,3
+William D. Dorland,4.5,3.796,3
+Saverio Giovacchini,4.5,3.234,5
+Frances Hughes Glendening,4.5,3.408,3
+Richard L. Greene,4.5,3.837,3
+Jeffrey C Herf,4.5,3.212,3
+Nabila Abdullah Hijazi,4.5,3.229,3
+Megan McCale Hurley,4.5,3.782,3
+James Lee Hutson,4.5,3.093,3
+Regina Igel,4.5,3.582,5
+Katie Irwin,4.5,3.584,3
+Seppo E. Iso-Ahola,4.5,3.12,6
+Ahmad Karimi-Hakkak,4.5,3.411,3
+David Anton Karpuk,4.5,2.986,3
+Mei Kong,4.5,3.371,3
+Andrea Leiman,4.5,3.495,3
+Christopher J. Lobb,4.5,3.236,3
+Sandra Michelle Loughlin,4.5,3.711,3
+Rebecca Marie Lush,4.5,3.446,3
+Victoria Maria MacDonald,4.5,3.97,3
+Steven I. Marcus,4.5,3.375,3
+Isaak Mayergoyz,4.5,3.138,3
+Elizabeth Victoria McLaughlin,4.5,3.159,3
+M. Coleman Miller,4.5,3.351,3
+David M. Mount,4.5,3.246,3
+Lee G. Mundy,4.5,3.263,3
+Alison G. Olson,4.5,3.142,3
+Jacqueline M Orlando,4.5,3.272,3
+Valerie K. Orlando,4.5,3.461,3
+Christopher S. Reynolds,4.5,3.011,5
+Lawrence R. Sita,4.5,3.262,3
+Gerry B. Strumpf,4.5,3.9,3
+Julie Taddeo,4.5,3.41,3
+Dennis F. Vacante,4.5,3.482,3
+Christopher S. Walsh,4.5,3.284,3
+Peggy Lynn Wilson,4.5,3.917,3
+A Fielding Ince Winters,4.5,3.125,3
+Kazuo Yaginuma,4.5,3.021,3
+Daniel E. Falvey,4.49,2.955,17
+Jeffrey S. Foster,4.48,3.082,8
+Santuria Orsetti,4.47,2.541,6
+John E. Splaine,4.47,3.828,6
+Jeffrey Martin Miller,4.47,3.225,24
+Meredith Jane Gill,4.47,3.552,4
+Rajarshi Roy,4.47,3.782,4
+Thomas A. Zaniello,4.47,3.346,4
+Jon T. Sumida,4.45,2.969,13
+Regina Ianozi,4.45,3.28,16
+Progyan Basu,4.45,2.941,45
+Leslie A Berns,4.45,3.583,8
+Maria Elena Campero,4.45,3.579,4
+David J. Hawthorne,4.45,3.591,4
+Heather Moreland McHale,4.45,3.442,4
+Carmen H. Ruzza,4.45,3.492,4
+Stephen J. Wallace,4.45,3.128,4
+Karl William Zuehlke,4.45,3.271,4
+Richard C. Daniels,4.44,3.037,6
+Brian D Johnson,4.44,3.026,6
+Derek Charles Richardson,4.44,2.865,6
+Scott Peter Roberts,4.44,3.658,14
+Erich Studer-Ellis,4.44,3.012,14
+Maynard Mack,4.43,3.064,8
+Colin A. Linsley,4.43,2.994,23
+Leland Frederick Saunders,4.42,3.182,11
+Raymond A. Adomaitis,4.42,3.556,4
+Hannah Marie Baker,4.42,3.417,4
+Robert Joseph Bonenberger,4.42,2.839,16
+Verlyn B. Flieger,4.42,3.213,4
+Robert S. Levine,4.42,3.159,4
+Rex Weil,4.42,3.081,16
+Thomas Ashton Cropp,4.41,2.753,10
+Paulo Sergio Fortes Bedaque,4.4,3.281,5
+Edo Waks,4.4,3.51,5
+Guangming Zhang,4.4,3.811,5
+Carter Hall,4.39,2.961,8
+Arnett W. Gaston,4.39,3.384,48
+Dory H,4.39,3.39,7
+Gregory A. Staley,4.38,2.937,15
+Kaustubh,4.38,3.086,3
+Ira Berlin,4.38,3.014,3
+John J. Millson,4.38,3.314,17
+Linda Aldoory,4.38,3.462,2
+Aaron Allen,4.38,2.969,2
+Timothy J Barney,4.38,3.371,2
+Ann Arlene Battle,4.38,3.724,2
+George A. Bean,4.38,3.424,2
+Suzanne J. Beicken,4.38,3.857,2
+Janna Bianchini,4.38,2.979,2
+Natka D,4.38,3.454,2
+Tonia Bleam,4.38,3.007,10
+Jennifer Bly,4.38,3.493,2
+David J. Brookshire,4.38,3.923,2
+John J. Bush,4.38,2.89,2
+Erica Maria Cefalo,4.38,3.531,2
+Kalyani Chadha,4.38,3.953,2
+Gustavo Adolfo Chaves,4.38,3.3,2
+Robert Richard,4.38,3.852,2
+Kenneth L. Conca,4.38,3.289,2
+Samuel Cook,4.38,3.44,2
+Zsuzsa Daczo,4.38,3.771,2
+Julia Albertovna Dobrosotskaya,4.38,3.021,2
+Mark G. Duggan,4.38,3.212,2
+Laura Melisa Evans,4.38,3.63,2
+Carolyn Molden Fink,4.38,3.606,2
+Thomas Michael Geary,4.38,2.858,2
+Judith A Gebhardt,4.38,3.378,2
+Charles J. Gelso,4.38,3.052,10
+Pamela Jean Gerhardt,4.38,3.431,2
+Doug Michael Glynn,4.38,2.625,2
+Mark A. Graber,4.38,3.209,2
+Robert O. Grover,4.38,3.661,2
+Christina B. Hanhardt,4.38,3.548,2
+Andrew I. Harris,4.38,2.997,2
+Brent M.W. Hernandez,4.38,3.862,2
+Clara E. Hill,4.38,3.739,2
+Susan Hong,4.38,3.551,2
+Sherick Andre Hughe,4.38,3.974,2
+David H. Hyde,4.38,3.718,2
+Miki Kashima,4.38,2.595,2
+Samuel Kessel,4.38,4.0,2
+Melanie A. Killen,4.38,3.893,2
+Carleton Kings,4.38,3.333,2
+Kenneth W. Klotz,4.38,3.781,2
+Richard Douglas Layton,4.38,3.072,2
+Maria D. Lekic,4.38,3.413,2
+Jeff Lemberg,4.38,3.144,2
+Mark P. Leone,4.38,2.91,2
+Maria Joao Lobo-Antunes,4.38,3.128,2
+Mark V. Loewenstein,4.38,3.502,2
+Jeffrey W. Lucas,4.38,3.192,2
+Cristina Maillo,4.38,3.157,2
+David H. Malmquist,4.38,3.288,2
+Kevin Richard McClure,4.38,3.922,2
+Ryan Blake Millsap,4.38,3.274,2
+Philip Tajitsu Nash,4.38,3.896,2
+Amber Dawn Nelson,4.38,3.339,2
+Matthew M. Palus,4.38,3.332,2
+Elizabeth A. Papazian,4.38,3.611,2
+Gary M. Pavela,4.38,3.841,2
+Reiner Prochaska,4.38,3.679,2
+Elizabeth M. Quinlan,4.38,3.545,2
+Robert R. Raybits,4.38,3.909,2
+William Lawton Reed,4.38,3.829,2
+Maggy L Rodriguez,4.38,3.375,2
+Kevin M. Roy,4.38,3.273,2
+Richard Anthony Russo,4.38,2.961,2
+Ina Sammler,4.38,3.495,2
+Jessica L. Schultz,4.38,3.308,2
+Foon V. Sham,4.38,3.5,2
+Patrick Daniel Shipman,4.38,3.129,2
+David Snowden Shoup,4.38,3.51,2
+Santiago De Jesus Sol,4.38,3.496,2
+Todd Austin Solomon,4.38,3.516,2
+Kasra Sotudeh,4.38,3.61,2
+I Ketut Suadin,4.38,3.939,2
+Venkatramana Subrahmanian,4.38,4.0,2
+Brecken Chinn,4.38,3.363,2
+Prabahkar M. Tamboli,4.38,3.703,2
+Ty Daniel Tashiro,4.38,3.532,2
+James G. Thorpe,4.38,3.692,2
+David Tomblin,4.38,3.724,2
+Colleen Vesely,4.38,3.081,2
+Petra Volkhausen,4.38,3.127,2
+Kathryn Irene,4.38,3.561,2
+Jianqiang Wang,4.38,3.0,2
+Psyche A Williams-Forson,4.38,3.54,2
+Brooke Danielle Wortham,4.38,3.5,2
+Stephen Yoder,4.38,4.0,2
+Jianhua Zhu,4.38,4.0,2
+Wenlu Zhu,4.38,3.397,2
+Fawzi Emad,4.36,2.844,46
+Angela Black,4.36,2.828,5
+Frank Raymond Latino,4.36,3.658,5
+Heather S. Nathans,4.36,3.554,5
+Ronald A. Yaros,4.36,3.696,5
+Jordan A. Goodman,4.35,2.899,6
+Karen Angeline,4.35,3.645,3
+Joanna Goger,4.35,3.51,3
+Alan Michael Goldenbach,4.35,2.529,3
+Zhe Jin,4.35,3.11,3
+Richard H. McCuen,4.35,3.121,8
+Mark Wellman,4.34,3.578,34
+Joanna J. Findlay,4.34,3.475,5
+Lisa Rose Mar,4.33,3.213,9
+Alan Robertson Lehman,4.32,3.378,9
+Robert Michael Sanner,4.32,3.179,11
+Rajeev K. Barua,4.32,3.383,4
+Robert M. Briber,4.32,3.648,4
+Jennie Hyun Chung Lee-Kim,4.32,3.584,4
+Louise Elizabeth Martinez,4.31,3.119,6
+Frederick C. Wellstood,4.31,3.039,18
+Margaret J. Antonisse,4.31,3.177,10
+Kaye L. Brubaker,4.31,3.635,8
+Elaine A. Anderson,4.3,3.318,3
+Kendra Hadiya Barber,4.3,3.303,3
+Elizabeth B Bearden,4.3,3.244,3
+Benjamin B. Bederson,4.3,3.187,3
+Sarah E Bergbreiter,4.3,3.175,3
+Amanda Tennyson Berger,4.3,3.223,3
+Zackaria Chacko,4.3,3.025,3
+Robert G. Chambers,4.3,3.095,3
+Alexander Chen,4.3,3.624,3
+Mark E. Cohen,4.3,2.956,3
+Marino diMarzo,4.3,3.073,3
+Laura J. Dugan,4.3,3.294,3
+Fabian Antonio Faccio,4.3,3.428,3
+Angella Paulette Foster,4.3,3.83,3
+James H. Fry,4.3,3.752,3
+Curtis M. Grimm,4.3,3.658,3
+Iqbal Hamza,4.3,2.486,3
+Dimiter Iavorov Kirilov,4.3,3.415,3
+Stacy Jeanne,4.3,3.667,3
+Frances Lee,4.3,3.054,3
+Melissa Michelle Lewis,4.3,3.595,3
+Loretta M. Lynch,4.3,2.743,3
+Paulo Pro,4.3,3.679,3
+Andrew Alexander Schmidt,4.3,3.518,3
+Raymond John Sedwi,4.3,3.509,3
+Pam Splaine,4.3,3.663,3
+Vladimir Tismaneanu,4.3,3.873,3
+Pamela A. Abshire,4.3,3.444,4
+Patricia Ann Burt,4.29,3.451,8
+Kathleen Battles Skinker,4.29,3.448,10
+Michael W. Hicks,4.29,3.144,5
+Gideon E. Mark,4.29,3.292,5
+Howard Smead,4.29,3.317,5
+Christopher C. Davis,4.28,3.21,7
+Sharon Kathleen,4.28,3.351,7
+Dan Molle,4.28,2.992,7
+Rose-Marie G. Oster,4.28,3.207,7
+Stephanie Kristen Grutzmacher,4.28,3.257,2
+Todd J. Cooke,4.27,2.875,17
+Sabrina Alcorn Baron,4.27,3.327,11
+Justicia Opoku-Edusei,4.26,2.874,27
+Fernando Rios,4.26,3.213,14
+Sanjay,4.26,3.007,7
+Eyad H Abed,4.25,3.082,4
+Sarah Benharr,4.25,3.554,4
+Sheryl H. Ehrman,4.25,3.596,4
+Gay L. Gullickson,4.25,3.023,4
+Victoria Louisa Gundling,4.25,3.208,4
+June E. Hargrove,4.25,3.17,4
+Thomas David Ko,4.25,3.065,16
+Zhongchi Liu,4.25,3.34,4
+Y Martin Lo,4.25,3.501,4
+Stephen M. Roth,4.25,3.676,4
+Yaron M. Sternberg,4.25,2.611,8
+Stacy S. McGaugh,4.25,2.967,12
+Scott A. Wolpert,4.24,2.523,18
+Peter Kofinas,4.24,3.687,13
+Richard C. Stewart,4.24,3.1,7
+Jerry L. Semper,4.23,3.63,5
+Denny Gulick,4.22,2.68,35
+Karen Swenson Hallows,4.22,3.333,8
+Eliyana Rebecca Adler,4.21,3.053,5
+Ibrahim Kargbo,4.21,3.607,5
+Wallace Oates,4.21,3.155,5
+Jie Zhang,4.21,3.648,5
+Ramani Duraiswami,4.21,3.26,2
+Kara Janean Fo,4.21,3.398,2
+John Curran Hardin,4.21,3.492,2
+Richard V. Calabrese,4.2,2.928,3
+Cortney Lyn Fisher,4.2,3.098,9
+James Gillespie,4.2,3.239,3
+Jeannette L. Johnson,4.2,3.778,9
+David C. Buehrle,4.19,3.412,11
+Donald P. McNeilly,4.19,3.254,11
+Adrianos Papamarcou,4.19,2.937,19
+Antoine Mellet,4.19,2.916,24
+Peter S. Bernard,4.19,3.236,5
+Adil B. Hassam,4.19,3.273,6
+David I. Kass,4.19,3.655,6
+Ingrid I. Satelmajer,4.19,3.047,6
+John Shea,4.19,2.965,26
+Fredrick David Bolton,4.18,3.194,4
+Yan Dong,4.18,3.691,4
+Adam Fracchia,4.18,2.918,4
+Nuno Miguel L C Martins,4.18,3.243,4
+Richard James Bell,4.17,3.133,11
+Nahal Akbari-Saneh,4.17,3.916,1
+Jo-Ann Marie Amadeo,4.17,3.709,1
+Rosalyn Elaine Anderson-Howell,4.17,3.571,1
+Stuart S. Antman,4.17,3.013,1
+Elisabeth Arevalo-Guerrero,4.17,3.021,1
+David Aulicino,4.17,2.257,1
+Doron E. Avramov,4.17,3.381,1
+Hantaek Bae,4.17,2.416,1
+Sandra A. Banisky,4.17,3.182,1
+Agnes Patrice Bannigan,4.17,3.382,1
+Avram Bar-Cohen,4.17,3.81,1
+Charles Norbert Baschnagel,4.17,2.131,1
+Alison Flanigan Bassi,4.17,3.676,1
+Kevin Scott Baxter,4.17,3.92,1
+Rachel Elise Berndtson,4.17,3.317,1
+Samrat Bhattacharjee,4.17,2.893,1
+Adam Ross Binkley,4.17,3.189,1
+Donald Joseph Bolger,4.17,3.705,1
+Thomas J Bonnar,4.17,2.9,1
+Amy Ordakowksi Burk,4.17,3.007,1
+Jesse Harris Burrowes,4.17,3.062,1
+Albert J. Calogero,4.17,3.302,1
+Andrew J. Campbell,4.17,3.234,1
+Timothy Canty,4.17,3.38,1
+Amy Marie Caratti,4.17,3.921,1
+Melissa K. Carrier,4.17,3.708,1
+James Edward Cecil,4.17,3.958,1
+Gilad Chen,4.17,3.482,1
+Randy Christopher Chugh,4.17,2.786,1
+Ioana Andreea Cionea,4.17,3.121,1
+Lawrence,4.17,3.895,1
+Pamela Irene Clark,4.17,3.421,1
+Cassandra L. Clayton,4.17,3.475,1
+Alexander Cadwell Cloninger,4.17,2.933,1
+Kimberly A. Cochrane,4.17,3.835,1
+Cassandra Shular Coddington,4.17,3.582,1
+Patricia Hill Collins,4.17,3.681,1
+Thomas M. Corsi,4.17,3.779,1
+Jose M. Costa,4.17,3.338,1
+Timothy Daniel,4.17,3.2,1
+Jianxin Cui,4.17,3.3,1
+Lindley Darden,4.17,3.21,1
+John Davidson,4.17,3.464,1
+Larry S. Davis,4.17,3.062,1
+Diedre Nyota Dawki,4.17,3.937,1
+James M. DeGeorge,4.17,3.946,1
+Abbe Sentina Depretis,4.17,3.543,1
+Cristian Dezso,4.17,3.438,1
+Yamalis Diaz,4.17,3.624,1
+Zeynep Dilli,4.17,3.162,1
+Shannon Marie Dooling,4.17,3.928,1
+Martin E. Dresner,4.17,3.769,1
+Caroline Eades,4.17,3.801,1
+Alejandra Maria Echazu,4.17,3.673,1
+Herbert A Edelstein,4.17,3.803,1
+Najib M. El-Sayed,4.17,3.0,1
+Evan Andrew Ellicott,4.17,3.8,1
+Sara Kate Ericson,4.17,3.906,1
+Philip T. Evers,4.17,3.314,1
+David Falk,4.17,3.466,1
+William W. Falk,4.17,3.869,1
+Patricia Lynn Fanflik,4.17,3.035,1
+Nariman Farvardin,4.17,3.676,1
+Ryan Fehr,4.17,3.46,1
+Merrill Beth Feite,4.17,3.553,1
+Natalie Jacqueline Ferdinand,4.17,3.95,1
+Charles Kevin Fletcher,4.17,3.88,1
+David Edward Flynn,4.17,2.352,1
+Jennifer Chambers Froh,4.17,3.951,1
+David Fushman,4.17,2.956,1
+Steven A. Gabriel,4.17,3.37,1
+Douglas Galagate,4.17,3.096,1
+Margaret Helen Clune Giblin,4.17,3.653,1
+Victor L. Granatstein,4.17,2.95,1
+Oscar Wallace Greenberg,4.17,3.615,1
+Patrick Ryan Grzanka,4.17,3.813,1
+Nathan C. Hall,4.17,3.098,1
+James Edward Hayes,4.17,3.711,1
+Lindsay Haye,4.17,3.333,1
+Jocelyn Ann Heath,4.17,3.26,1
+Eleanor Elson Heginbotham,4.17,3.185,1
+William L. Helkie,4.17,3.782,1
+Tamia A Henry,4.17,3.683,1
+Jeffrey W. Herrmann,4.17,3.576,1
+Katherine Randon Hershey,4.17,3.854,1
+Phuong Hoang,4.17,3.307,1
+Mark Robert Hoffmann,4.17,3.076,1
+Kayi Hui,4.17,3.48,1
+William Idsardi,4.17,3.845,1
+Connie Inukai,4.17,3.34,1
+Ramsey George Jabaji,4.17,3.803,1
+Fatimah L.C. Jackson,4.17,3.262,1
+Nicole Renee Ja,4.17,3.74,1
+Timothy Jacobsen,4.17,3.281,1
+Matthew Joseph Jaskot,4.17,3.083,1
+Hua Jiang,4.17,3.319,1
+Sirkwoo Jin,4.17,3.66,1
+Dale Maurice Johnson,4.17,3.505,1
+Haynes B. Johnson,4.17,3.613,1
+Odis D. Johnson,4.17,3.318,1
+Steven Robert Jones,4.17,3.774,1
+Cecilia A. Jordan,4.17,3.869,1
+Yogesh V. Josh,4.17,3.465,1
+Nazneen Michelle Kane,4.17,3.29,1
+Erin Renee Kazee,4.17,3.363,1
+Barrett E. Kirwan,4.17,3.179,1
+Matthew James Konicki,4.17,2.626,1
+Kari Kraus,4.17,3.791,1
+William O. Lamp,4.17,3.465,1
+George Calvin Lanum,4.17,3.407,1
+Paul Leisnham,4.17,3.25,1
+Patrice E. Lewis,4.17,3.883,1
+Phoenix F. Liu,4.17,3.666,1
+Adam Matthew,4.17,3.389,1
+Terence Dyer Long,4.17,3.297,1
+Thomas A. Loughran,4.17,2.809,1
+Elena Lozinsky,4.17,3.361,1
+James Maffie,4.17,3.666,1
+Charlotte Stephanie Ma,4.17,3.177,1
+John Anthony Mancini,4.17,3.095,1
+Keila Rachel Manekin,4.17,3.272,1
+Kathlene Butler Martini,4.17,3.385,1
+Michele M,4.17,3.267,1
+Jeff S. Maynor,4.17,3.922,1
+Gregory Alan McBrayer,4.17,3.357,1
+Joseph L. McCaleb,4.17,3.578,1
+James Randy McGinnis,4.17,3.911,1
+Donald Bernard McGlew,4.17,3.481,1
+Karen McLaren,4.17,3.306,1
+Peter B McPhun,4.17,2.833,1
+Howard M. Milchberg,4.17,3.514,1
+James A. Milke,4.17,3.439,1
+Neal A Miller,4.17,3.779,1
+Cynthia F. Moss,4.17,3.511,1
+Sebastien Motsch,4.17,2.807,1
+Ronald Lee Mower,4.17,3.886,1
+Frederick W. Mowrer,4.17,3.536,1
+David N. Myers,4.17,3.427,1
+Justin Richard Nero,4.17,3.654,1
+Ha Minh,4.17,2.947,1
+Nancy Noben-Trauth,4.17,3.296,1
+Kwame Opare,4.17,3.833,1
+Diana Elizabeth,4.17,3.098,1
+Jessica Vollmerhausen Palladino,4.17,3.881,1
+Gerard Passannant,4.17,3.335,1
+Gregory F. Payne,4.17,3.85,1
+Barry L. Pearson,4.17,3.191,1
+Ashleigh Ryann Petts,4.17,3.266,1
+Leslie Pick,4.17,3.366,1
+Larry Plotkin,4.17,3.051,1
+Anastasiya Pocheptsova,4.17,3.438,1
+Dorothee Polanz,4.17,3.254,1
+George H. Quester,4.17,3.397,1
+Juan Carlos Quintero-Herencia,4.17,3.303,1
+Martin C. Rabenhorst,4.17,3.699,1
+Reinhard K. Radermacher,4.17,3.242,1
+William Michael Rand,4.17,3.612,1
+Torsten O. Reimer,4.17,3.238,1
+Elise M Resnick,4.17,3.39,1
+Kate Ciscelia Riera,4.17,3.317,1
+Joanne Willen Roby,4.17,2.712,1
+Steven E. Rokita,4.17,2.852,1
+Raluca Romaniuc,4.17,3.213,1
+Benjamin M. Rosenthal,4.17,3.872,1
+Laura J Rosenthal,4.17,3.285,1
+Elizabeth Rossmiller,4.17,3.734,1
+Daniel Aaron Rubin,4.17,3.042,1
+Katharina Rudolf,4.17,3.627,1
+Christopher M. Rukan,4.17,3.0,1
+Rachelle Sampson,4.17,3.416,1
+Peter Benjamin Sanborn,4.17,2.711,1
+Anita Carolyna Sanyal,4.17,3.959,1
+Susan E. Savage-Stevens,4.17,3.748,1
+Joseph B. Scholten,4.17,3.253,1
+Robin Lynn Scholz,4.17,3.611,1
+Susan C. Schwab,4.17,3.444,1
+Mary Ellen Scullen,4.17,3.378,1
+Eric A. Seagren,4.17,3.226,1
+Steven Selden,4.17,3.874,1
+Myeong-Gu Seo,4.17,3.8,1
+Gregory Jay Shaffer,4.17,3.95,1
+Maisoon Issa Shahin,4.17,3.536,1
+Adel Shirmohammadi,4.17,3.786,1
+Ben A. Shneiderman,4.17,3.473,1
+Benjamin Caleb Sibley,4.17,3.163,1
+Sauleh Siddi,4.17,3.723,1
+Frank Siewerdt,4.17,3.337,1
+Henry P. Sims,4.17,3.816,1
+Sanja Marija,4.17,3.291,1
+Betty Caroline Skeen,4.17,3.973,1
+Craig Slack,4.17,3.657,1
+Charles C Smith,4.17,3.799,1
+Dagobert Soergel,4.17,3.625,1
+Jing Song,4.17,3.75,1
+Shenandoah Sowash,4.17,3.024,1
+Espen E. Spangenburg,4.17,3.132,1
+Anna Kathleen Steed,4.17,3.423,1
+Lisa Stevens,4.17,3.835,1
+Michelle Elaine Stotz,4.17,3.689,1
+Justin Strom,4.17,3.672,1
+Matthew L. Supple,4.17,3.862,1
+Harry Tamvakis,4.17,3.425,1
+Kathryn,4.17,3.316,1
+Andrew Timleck,4.17,3.354,1
+Mari Boor Tonn,4.17,2.816,1
+Tommy Lee Totten,4.17,3.836,1
+Sennur Ulukus,4.17,3.025,1
+Vessela Valiavitcharsk,4.17,3.118,1
+Mark A. Varner,4.17,3.037,1
+Pierre M. Verdaguer,4.17,3.338,1
+Christopher Vogel,4.17,3.933,1
+Stuart N. Vogel,4.17,3.159,1
+Stephen D. Voth,4.17,3.581,1
+Sherry L Waldrep,4.17,3.76,1
+Margaret Anne Walker,4.17,3.827,1
+Christina Noelle Wall,4.17,3.324,1
+Roy Smith Walls,4.17,3.896,1
+Xiang Wan,4.17,3.717,1
+Nile Webb,4.17,3.528,1
+Joseph Weber,4.17,3.53,1
+Kate Marie Weber,4.17,3.374,1
+Daniel Eric Weinberg,4.17,2.774,1
+Russell R. Wermers,4.17,3.543,1
+John Thomas,4.17,3.17,1
+Allan L. Wigfield,4.17,3.92,1
+Caroline A. Wilkins,4.17,3.277,1
+Brandon Kyle Winfrey,4.17,3.381,1
+Mary Cobb Wittrock,4.17,3.166,1
+Stephen M. Wolniak,4.17,3.136,1
+Andrew D. Wolvin,4.17,3.579,1
+Sarah Jane,4.17,3.413,1
+Christopher Karl Zalewski,4.17,3.553,1
+Lei Zhang,4.17,3.417,1
+Teng Zhang,4.17,3.625,1
+Aijun Zhu,4.17,3.67,1
+Antoine Borrut,4.17,2.936,7
+Russell E. Hamill,4.17,3.301,15
+Peter M. Carruthers,4.17,3.368,5
+Margaret Meghan Duffy,4.17,3.163,5
+Laurent G. Mo,4.17,3.429,5
+Victor M. Yakovenko,4.17,3.342,5
+Joelle C. Presson,4.15,3.234,6
+Kevin Murnane,4.15,2.916,52
+Allen B. Eney,4.15,3.851,8
+Elizabeth Anne Robertson-Tchabo,4.15,3.972,8
+Judd O. Nelson,4.15,2.991,33
+Michael R. Collier,4.14,3.277,7
+Tracy Riggins,4.14,3.479,9
+Michael C. Laskowski,4.13,2.965,8
+Gregory B. Baecher,4.13,3.577,2
+Catherine Elizabeth Barnes,4.13,2.786,2
+Myron Beckenstein,4.13,2.512,2
+Kimberly Anne Bethke,4.13,3.94,2
+Mary Colleen Byrne,4.13,3.745,2
+Melinda Chateauvert,4.13,3.363,2
+Esther P. David,4.13,2.89,2
+Sharon M. Desmond,4.13,3.088,2
+Marianne Grace Dunn,4.13,3.446,2
+Jennifer Lynn Edwards,4.13,3.374,2
+Andrew Elby,4.13,3.547,2
+Richard A. Etlin,4.13,3.33,2
+Jason A. Farman,4.13,3.142,2
+Matthew H Fleming,4.13,3.071,2
+William L. Fourney,4.13,3.279,10
+Elke P. Frederiksen,4.13,3.628,2
+Mathias F Frisch,4.13,3.286,2
+Judith K. Hellerstein,4.13,2.961,2
+Jens Herberholz,4.13,3.023,2
+Ulrich Hewer,4.13,3.134,2
+Darren Hudson Hick,4.13,2.931,2
+John K. Horowitz,4.13,3.423,2
+James Sean Humbert,4.13,3.306,2
+Christopher O. Justice,4.13,3.371,2
+Tasos Lazarides,4.13,3.268,2
+Peter E. Leone,4.13,3.723,2
+William S. Levine,4.13,3.291,2
+David Lightman,4.13,2.932,2
+Yoav Magid,4.13,3.485,2
+Marilyn Matar,4.13,3.316,2
+Christopher McKelvey,4.13,3.105,2
+Carol A. Mossman,4.13,3.299,2
+Teresa M,4.13,2.873,2
+Kavita Vidya Mudan,4.13,3.0,2
+Genevieve Page,4.13,3.344,2
+Beth Parent,4.13,3.411,2
+Robert L. Park,4.13,3.899,2
+Elizabeth Rose Picciuto,4.13,3.016,2
+Steven Lloyd Rolston,4.13,3.257,2
+John Sabelhaus,4.13,3.002,2
+William Ray Stricklin,4.13,3.429,2
+Lars Svenonius,4.13,3.726,2
+Christina Rose Svilich,4.13,3.765,2
+James A. Yorke,4.13,3.279,2
+Alka Gandhi,4.12,2.523,29
+Ibrahim Z. Ades,4.12,2.861,33
+Kevin Michael Calabro,4.12,3.306,15
+John Pease,4.11,3.032,20
+Paul Wright,4.11,2.83,12
+Darryll J. Pines,4.11,3.935,5
+Anthony F. Barilla,4.1,3.75,3
+Karen Carl,4.1,3.721,3
+Pablo Mariano Federico,4.1,2.831,3
+Rocio Flor,4.1,3.383,3
+Patrick C. Kangas,4.1,3.182,3
+John H. Laub,4.1,3.321,3
+Nili Levy,4.1,3.541,3
+Douglas W. Lipton,4.1,3.269,3
+Kristjana Lyn,4.1,2.97,3
+Atif M. Memon,4.1,3.279,3
+Andrea Dominique Narvaez,4.1,3.55,3
+Mark Nowakowski,4.1,3.244,3
+Trevor S. Parry-Giles,4.1,2.802,3
+Michelle V Rowley,4.1,3.446,3
+Leigh Ann Ruggiero,4.1,3.056,3
+Hisham A. Sati,4.1,3.142,3
+Susan Whyte,4.1,3.504,3
+Michelle Hannah Smirnova,4.1,3.176,3
+Allen Stairs,4.1,3.188,3
+Joseph F. Wappel,4.1,3.488,3
+Madeline C. Zilfi,4.1,3.097,3
+Lillian E. Doherty,4.1,3.216,12
+Edgar Moctezuma,4.09,3.528,11
+Robert Thomas,4.08,3.216,4
+Brian R. Hunt,4.08,3.303,4
+Amy Tara Karp,4.08,3.4,4
+Huichun Liang,4.08,3.776,4
+Mirona Magearu,4.08,3.081,4
+Arthur Reynolds,4.08,3.691,4
+Kenneth H. Yu,4.08,3.228,4
+Michael P Montague-Smith,4.08,2.84,30
+Anna Obizhaeva,4.08,3.469,9
+Sami Ainane,4.07,2.967,5
+Patricia A. Alexander,4.07,3.792,5
+Thomas D. Cohen,4.07,3.202,5
+William Gasarch,4.07,3.454,5
+Peter Losin,4.07,3.715,5
+Sean Dodd Lawton,4.06,2.552,4
+Bonnie Lynn Dixon,4.06,2.765,97
+Bilal M. Ayyub,4.06,3.47,6
+Makiko Inoue,4.06,2.97,10
+Charles F. Alford,4.06,3.528,7
+William Pugh,4.06,3.152,7
+Justin Woods Trudel,4.06,3.074,1
+Debra G. Franklin,4.05,2.92,4
+Dawn Gavin,4.05,3.026,3
+Alvin J. Zumbrun,4.05,3.217,4
+William M. McClenahan,4.05,3.309,23
+Ann C. Smith,4.05,3.432,5
+Diane Whitney,4.05,3.483,5
+Bernard D. Cooperman,4.05,3.195,9
+Juliet Benham Wiersema,4.05,3.202,9
+Virginia Ann Haufler,4.04,3.456,6
+Jacob A Hinkso,4.04,3.126,6
+Justin Charles Lohr,4.04,2.476,6
+Niranjan Ramachandran,4.04,3.391,6
+Neil Goldsman,4.04,3.345,7
+June Myoung Kwak,4.04,3.218,7
+David M. Wyatt,4.04,3.265,7
+Gemirald P,4.04,3.489,2
+Judith N. Freidenberg,4.04,3.547,2
+Michael D. King,4.04,3.19,2
+Jane C. Loeffler,4.04,3.531,2
+Matthew Ryan Roesch,4.04,4.0,2
+Arpita Upadhyaya,4.04,3.349,2
+Volker Briken,4.04,3.153,8
+Melissa Simone Landa,4.03,3.738,10
+Ryan Dean Curtis,4.03,3.288,28
+James M. Glass,4.03,3.615,11
+Anthony Colantuono,4.03,3.296,6
+Jeremy R. Kinney,4.03,3.654,6
+Raymond Paternoster,4.03,3.125,6
+Martin L. Johnson,4.03,3.196,14
+Michele R. Dudash,4.03,2.912,4
+Douglas Sadao Ishii,4.03,3.307,4
+Robin G. Sawyer,4.03,3.232,10
+Susan Jane Dwyer,4.02,3.218,14
+Steven E. Brauth,4.02,3.409,13
+Sora Devore,4.02,3.432,3
+Gang Qu,4.02,2.852,5
+William A. Weigand,4.02,3.38,5
+Kenneth R. Berg,4.01,3.121,5
+Patricia Ann Shields,4.01,2.813,47
+Jennifer Lynn Dempsey,4.0,3.103,1
+Marlene J. Mayo,4.0,2.544,1
+Lowell W. Adams,3.98,3.483,2
+Faedra C Carpenter,3.98,3.443,2
+Benjamin John Lauser,3.98,3.092,2
+Chuan Sheng Liu,3.97,3.471,16
+Marcia A. Shofner,3.97,3.011,16
+Patrick R. Warfield,3.97,3.171,16
+Korey R. Rothman,3.97,3.475,48
+James D. Spina,3.97,3.309,15
+Alexandra Eve Bely,3.97,3.006,13
+Thomas Howard Beigel,3.96,3.138,30
+Adam H. Hsieh,3.95,3.662,9
+Michael Olmert,3.95,3.358,9
+Mary E. Shea,3.95,3.41,9
+Megan Alesia Monserez,3.95,3.164,8
+Jeffrey Andrew Pinder,3.95,3.393,8
+Mary Elizabeth Bazemore,3.94,3.566,7
+Neil V. Blough,3.94,2.754,7
+David B. Sicilia,3.94,2.833,7
+Peter B. Sunderland,3.94,3.277,7
+Lester Escobal,3.94,3.043,6
+Doron Levy,3.94,3.095,6
+David D. Yager,3.93,2.704,17
+Wojciech Czaja,3.93,2.693,25
+Jonathan Moss Aberman,3.93,3.54,5
+Carmen Benito-Vessels,3.93,3.708,5
+Moustafa El-Bassyiouni,3.93,3.349,5
+Cheryl L. Holt,3.93,2.785,5
+Andrew Frederick Milacci,3.93,2.381,5
+Kathryn E. Truman,3.93,2.89,5
+Daryle Williams,3.93,3.152,5
+Kelly Mark Cresap,3.92,3.16,4
+Joseph D. Falvo,3.92,3.302,4
+John Aron Grayzel,3.92,3.474,4
+Jessica Lynn Hoffman,3.92,3.571,4
+David Jacobs,3.92,3.429,4
+Jonathan Katz,3.92,3.059,4
+Stephen E. Loeb,3.92,3.649,4
+Kara Morillo,3.92,2.977,4
+Derek A. Paley,3.92,3.043,4
+Janna Lee Raudenbush,3.92,3.395,4
+Peter A. Sandborn,3.92,2.973,4
+Charles W. Schwartz,3.92,3.045,4
+Benedicte Veillet,3.92,3.243,4
+Etsuko Yamakita,3.92,3.053,4
+Robyn S. Zeiger,3.92,3.28,4
+Manoussos Grillakis,3.91,3.131,26
+Donna Elise Howard,3.91,3.189,13
+Daniel Lee Bla,3.9,3.019,3
+Marjorie Bonavia,3.9,3.291,3
+Patrick M. Craig,3.9,3.474,3
+Mohamad T Esmaili,3.9,3.392,3
+Jeremy Joseph Flick,3.9,3.198,3
+William Thomas Hild,3.9,3.066,3
+Soulaiman Jendi,3.9,3.295,3
+Paul Jung,3.9,3.769,3
+Leigh A. Leslie,3.9,3.153,3
+David Brian Libber,3.9,3.215,3
+Deborah J. Nelson,3.9,3.534,3
+Peter D. Petrov,3.9,3.372,3
+Adam A. Porter,3.9,3.067,3
+Robert C. Provine,3.9,3.155,3
+Kathleen H. Staudt,3.9,3.833,3
+Ian White,3.9,3.852,3
+Jian-Lun Xu,3.9,2.966,3
+Erin Lovenia Eak,3.88,3.117,9
+Robert Keith Chester,3.88,3.096,2
+Marta Chico,3.88,3.189,2
+Brad Richard Conrad,3.88,2.76,2
+Paul Cote,3.88,3.41,2
+Aparajita De,3.88,3.246,2
+Michael R.P. Dougherty,3.88,3.458,2
+Kerry M. Green,3.88,3.166,2
+Brad N Greenwood,3.88,3.396,2
+David A. Grimsted,3.88,2.932,2
+Sharon Harley,3.88,2.799,2
+Sheila Elana Jelen,3.88,3.43,2
+Xiangdong Ji,3.88,3.158,2
+Sonja M Johnson,3.88,3.261,2
+Karen Linda Krausen,3.88,3.381,2
+Annette Lareau,3.88,2.837,2
+Erik Lichtenberg,3.88,2.717,2
+Elisabeth Fost Maring,3.88,3.454,2
+Dharma P. Naik,3.88,3.277,2
+Alan Neustadtl,3.88,3.309,2
+Jade Carty Olson,3.88,3.684,2
+Luis A. Orozco,3.88,3.111,2
+Joseph B Richardson,3.88,3.14,2
+Massimo Ricotti,3.88,3.091,2
+Daniel A Saalfe,3.88,3.555,2
+Pamela Hope Segal,3.88,3.571,2
+Leo H. Shapiro,3.88,3.392,2
+Sarah Jullie Sillin,3.88,2.988,2
+Anshuman Sinha,3.88,3.474,2
+Carl Sessions Stepp,3.88,3.085,2
+Barbara S. Walter,3.88,2.899,2
+Anne W. Warren,3.88,3.681,2
+Norman M. Wereley,3.88,3.615,2
+Jimmie Lee West,3.88,3.891,2
+Bryan W. Eichhorn,3.87,2.652,22
+Manoj Franklin,3.87,3.217,15
+Bretton W. Kent,3.87,2.874,17
+Lester Howard Andrist,3.86,2.648,7
+Hailu Gebremariam Bant,3.85,2.926,7
+Hilary Jones,3.85,3.034,7
+Allen E. Winkelmann,3.84,2.946,5
+Sarah Mulhall Adelman,3.83,2.8,1
+Jorge Aguilar-Mora,3.83,3.705,1
+Kumiko Akikawa,3.83,3.384,1
+Massimiliano Albanese,3.83,3.62,1
+Bouchra Araji,3.83,3.256,1
+Nancy L. Atkinson,3.83,3.33,1
+Sarah Anne Balcom,3.83,3.377,1
+Michael O. Ball,3.83,3.376,1
+Deirdre Ann Barn,3.83,3.535,1
+Brandon Paul Behlendorf,3.83,3.428,1
+Elizabeth J. Beise,3.83,3.393,1
+Denise Marie Bellows,3.83,3.205,1
+Adele Berlin,3.83,3.055,1
+Rajani Seetal Bhatia,3.83,3.494,1
+Marc C. Boone,3.83,3.738,1
+Luigi Boschetti,3.83,3.118,1
+Amy E. Brown,3.83,3.47,1
+Alberto F. Cabrera,3.83,3.829,1
+Giulia Cristina Cangiano,3.83,2.782,1
+Caren Chang,3.83,3.479,1
+Wen Hsing Cheng,3.83,3.966,1
+Valerie Chepp,3.83,3.415,1
+Theresa M. Coletti,3.83,3.461,1
+Elizabeth C. Colson,3.83,3.484,1
+Nicole Marie Coomber,3.83,4.0,1
+Michael A. Coplan,3.83,3.3,1
+Sandra M. Cypess,3.83,3.501,1
+Chrystyna Marta Dail,3.83,3.504,1
+Sarah Lucile Dammeyer,3.83,3.164,1
+Vedat Guclu Diker,3.83,3.818,1
+Daniel Lee Dinsmore,3.83,3.729,1
+Bonnie J. Dorr,3.83,3.246,1
+Elizabeth Chase Driver,3.83,2.966,1
+Robin Lindsay Dunne,3.83,2.944,1
+Sayed A Elsisi,3.83,3.741,1
+Kent Wayne Erickson,3.83,3.108,1
+Jane Frances Fines,3.83,3.928,1
+Lindsey Morgan Fox,3.83,3.211,1
+Michael Friedman,3.83,2.817,1
+Kevin Stone Fries,3.83,2.978,1
+Sharon LaVonne Fries-Britt,3.83,3.8,1
+Carl Joseph Gomolka,3.83,3.379,1
+Deborah J. Goodings,3.83,3.036,1
+Denise C. Gottfredson,3.83,2.905,1
+Raymond Guiteras,3.83,3.265,1
+Nicole Gurley,3.83,2.781,1
+Reid Erec Gustafson,3.83,3.087,1
+Mohammad Taghi Hajiaghayi,3.83,3.5,1
+James C. Hanson,3.83,2.913,1
+Daniel Hawkins,3.83,3.422,1
+John L. Hellman,3.83,3.909,1
+Theresa Ann Hoffmann,3.83,3.721,1
+Janice Eileen Holly,3.83,3.831,1
+Darrell L. Hueth,3.83,3.123,1
+David Isaac Hull,3.83,2.871,1
+Steven W. Hutcheson,3.83,3.275,1
+Amie Jackson,3.83,3.911,1
+John Frank Jacobso,3.83,3.421,1
+Ryan Louis Janicki,3.83,2.558,1
+Abolhassan Jawahery,3.83,2.78,1
+Patrick Kanold,3.83,3.653,1
+Eric S. Kasischke,3.83,3.159,1
+Karen M. Kaufmann,3.83,3.394,1
+Stephen P. Kcenich,3.83,2.681,1
+Kirsten Michelle Keller,3.83,3.18,1
+Mary Lisa Kellogg,3.83,3.518,1
+Linda Migl Keyser,3.83,3.01,1
+Nazanin Khavari,3.83,3.317,1
+Tiffany Jeannette King,3.83,3.19,1
+Lisa Julia Kirch,3.83,3.011,1
+Jane Klassen,3.83,3.032,1
+Meredith A. Kleykamp,3.83,3.578,1
+Nidhi Kohli,3.83,2.786,1
+Dae Hee Kwak,3.83,3.657,1
+Jeanne Lafortune,3.83,3.015,1
+Pamela Jean Lanford,3.83,3.146,1
+Stephanie Anne Lansing,3.83,3.364,1
+Kisa Marie,3.83,3.263,1
+Daniel P. Lathrop,3.83,3.128,1
+Laura Annemarie Le,3.83,3.278,1
+Rosemary Schaffner Lindle,3.83,3.776,1
+Thomas G. Linthicum,3.83,2.792,1
+Rafael Lorente,3.83,3.141,1
+Ruth J. Lozner,3.83,3.572,1
+Stephanie Lynne Madden,3.83,3.351,1
+Christine L Maffuccio,3.83,2.894,1
+Hanne B. Mawhinney,3.83,3.977,1
+Patrick McCluskey,3.83,3.457,1
+Angela J.,3.83,3.608,1
+Erica Shawn Merson,3.83,3.596,1
+Sonya Alice Michel,3.83,3.224,1
+Sunil Kumar Mithas,3.83,3.584,1
+Eiko Miura,3.83,2.848,1
+Thomas Colborn Moser,3.83,3.05,1
+David M. Mosser,3.83,3.001,1
+Ragu Murtugudde,3.83,3.029,1
+Heidi Anne Nasstrom,3.83,3.347,1
+Dawn R. Norris,3.83,3.169,1
+Michael M. Ohadi,3.83,3.618,1
+Chinenye Ifeoma Okp,3.83,2.881,1
+Porter Wayne Olsen,3.83,3.107,1
+Charles E. Olson,3.83,3.543,1
+Ozguc Orhan,3.83,3.008,1
+Joseph Adams Perry-Parrish,3.83,3.535,1
+Geetha B Ramani,3.83,3.54,1
+Samuel Robert Ramsey,3.83,3.144,1
+Narendra D Ratnapala,3.83,3.6,1
+Emily Jo,3.83,3.771,1
+Adam Gregory Ross,3.83,2.811,1
+Florian Rouiller,3.83,3.773,1
+Oliver Lachlan Rourke,3.83,2.1,1
+Cecile Paule Ruel,3.83,3.45,1
+Karl Robert Bruce Schm,3.83,2.531,1
+Christine Pegorraro Schull,3.83,3.168,1
+Paul A. Shackel,3.83,3.449,1
+Elizabeth Shearn,3.83,3.359,1
+Gary Shteynber,3.83,3.389,1
+Ila Singh,3.83,3.884,1
+Lowell Richmond Sparks,3.83,3.974,1
+Ichiro Takeuchi,3.83,3.285,1
+Gail Sandra Thakur,3.83,3.213,1
+Bridget Marie Todd,3.83,2.928,1
+Jill Cornelius Underhill,3.83,3.268,1
+Christina Walter,3.83,3.113,1
+William B. Walters,3.83,2.838,1
+Orrin Wang,3.83,3.087,1
+Yang Wang,3.83,3.275,1
+Jennifer Jean Wellman,3.83,3.023,1
+Rob Wells,3.83,2.133,1
+Jeffrey F. Werling,3.83,2.932,1
+Amanda Woodward,3.83,3.695,1
+Min Wu,3.83,3.305,1
+Liangli Yu,3.83,3.638,1
+Eva Zaghdoun,3.83,2.937,1
+Guy Ziv,3.83,3.445,1
+Elinda F Kiss,3.83,3.547,11
+Jay P. Horner,3.81,3.202,6
+James M. Purtilo,3.81,3.455,6
+Yang Tao,3.81,3.906,6
+Robert M. Schwab,3.81,2.593,24
+Cybele Arnaud,3.81,2.923,5
+Frank S. Hall,3.81,2.74,11
+Ankur Srivastava,3.81,3.192,10
+James Michael Goodwin,3.81,3.327,9
+John Auchard,3.8,3.16,20
+Jane L. Donawerth,3.79,3.371,5
+Robyn Muncy,3.79,3.1,5
+Stephen Brighton,3.78,2.958,4
+Ping-Tong Ho,3.78,3.115,4
+David W. Inouye,3.78,3.586,4
+Roald Z. Sagdeev,3.78,3.758,4
+Teresa E. Leslie,3.78,3.523,13
+Howard D. Leathers,3.78,3.04,11
+Edwin Howard Smead,3.78,3.26,33
+Scott Kastner,3.77,3.345,7
+Brian L. Nelson,3.77,3.451,6
+Naijun Zhou,3.77,3.251,6
+Koki Nagata,3.77,3.649,5
+Romel Del Rosario Gomez,3.77,3.235,10
+Gregory Stephen Metcalf,3.76,3.498,16
+Kevork N. Abazajian,3.75,2.987,4
+Earnest R. Harrison,3.75,2.241,4
+Regina Harrison,3.75,3.096,4
+Anthony Ryan,3.75,3.442,3
+Don Heider,3.75,3.682,3
+Michael Israel,3.75,3.039,3
+Nancy Brenowitz K,3.75,3.18,12
+Jason C. Kuo,3.75,3.343,3
+Michael Lavine,3.75,3.363,4
+Kathryn E. Levit,3.75,3.359,4
+Clare A. Lyons,3.75,3.083,7
+Gerald Maa,3.75,3.259,8
+Zita Nunes,3.75,2.998,4
+William L. Pressly,3.75,3.14,2
+Michael J. Raupp,3.75,3.004,4
+Miyuki Kagawa Yoshikami,3.75,3.868,2
+Ye Zhang,3.75,3.061,3
+Douglas A. Julin,3.74,2.833,23
+Sadik Boragan Aruoba,3.73,2.967,3
+Horst E. Winkelnkemper,3.73,3.33,27
+Willie Davis,3.72,3.133,5
+Irwin N. Forseth,3.72,3.051,6
+Christopher W. Morris,3.72,2.922,6
+Phillip Scott Moses,3.72,3.237,6
+Susan Pramschufer,3.72,2.858,6
+James A. Schafer,3.72,3.061,6
+Glenn A. Rahmoeller,3.72,3.847,7
+Susan A. White,3.72,3.164,25
+Brian Winston Gilchrist,3.71,3.243,5
+Hugh M. Lee,3.71,3.207,7
+Mehl,3.71,3.192,7
+Philip R. DeShong,3.71,2.889,9
+Jennifer Anne Varriale,3.71,2.973,9
+Peter Ba,3.71,3.972,2
+Daniel Corstange,3.71,3.055,2
+Khady Diene,3.71,3.381,2
+Anil K. Gupta,3.71,3.331,2
+Stephen Michael Underhill,3.71,3.281,2
+Kimberly P. Heffernan,3.7,3.128,11
+Lyle D. Isaacs,3.7,2.745,12
+Thomas M. Antonsen,3.7,3.451,3
+Deborah Juliet Bailin,3.7,3.038,3
+Antoine Jevon Banks,3.7,3.34,3
+Yan Chen,3.7,3.434,3
+Laura Demaria,3.7,3.364,3
+George E. Dieter,3.7,3.426,3
+Norman Alberto Gonzalez,3.7,3.365,3
+Aaron D. Magid,3.7,2.95,3
+Jean M McGloin,3.7,3.135,3
+Katie Reynolds Place,3.7,3.484,3
+David Ira Salem,3.7,2.603,3
+Benjamin Shapiro,3.7,3.422,3
+Silvia Baage,3.7,3.055,1
+Kenneth Frauwirth,3.69,2.984,4
+Simon C. Bensimon,3.69,3.294,5
+Dolores Lima-Vales,3.69,3.382,6
+Edward Andrew Orehek,3.69,3.101,6
+Daniel C. Stein,3.68,2.986,10
+Christine Claire Hakenkamp,3.68,3.207,17
+Matthew T. Tull,3.67,3.316,1
+Kenneth L. Leonard,3.66,3.118,11
+Uzi Vishkin,3.66,3.35,6
+Peter Cramton,3.65,3.028,7
+Tracy Darlene Tomlinson,3.65,3.187,25
+Sylvester James Gates,3.65,3.199,4
+Jonathan D. Auerbach,3.64,2.849,5
+Hassan Ibrahim,3.64,3.685,5
+Jeffrey McCune,3.64,3.276,5
+Maria Veronica Munoz,3.64,3.419,5
+Michelle G,3.64,3.254,11
+Herman L. Ammon,3.63,2.673,30
+Leslie A Mostow,3.63,3.257,8
+W Donald Knight,3.63,3.12,15
+Renee D. Ater,3.63,3.167,9
+Stacie Claire Ain,3.63,3.552,2
+Heather Christine Allcock,3.63,3.846,2
+Jessica Leah Badt,3.63,3.874,2
+Balakumar Balachandran,3.63,3.107,2
+Jason Alan Bartles,3.63,2.917,2
+Ramalingam Chellappa,3.63,3.683,2
+Joseph M. Cirrincione,3.63,2.967,2
+Marianne Conroy,3.63,3.2,2
+Lisa M Daniel,3.63,2.853,2
+Katherine David-Fox,3.63,2.795,2
+Penny Ann Fuchs,3.63,3.312,2
+Wei Gao,3.63,3.421,2
+Antoine Gervais,3.63,3.06,2
+Lawrence A. Gordon,3.63,3.232,2
+William Hodos,3.63,3.464,2
+Jeffrey Lidz,3.63,3.682,2
+Sean Donald Luechtefeld,3.63,3.503,2
+Laura Maccioni,3.63,3.411,2
+Wayne V. McIntosh,3.63,3.336,2
+Alessandro Emilio Orfei,3.63,2.787,2
+Georges Rey,3.63,3.015,2
+Brian Richardson,3.63,3.398,2
+Cameron Bruce Ric,3.63,3.082,2
+Anne Spry Rush,3.63,2.981,2
+Robert C Sanders,3.63,3.492,2
+David A. Schlossman,3.63,3.887,2
+Philip Soergel,3.63,3.547,2
+Michael S. Trusov,3.63,3.695,2
+Michael S Updike,3.63,3.334,2
+Sylvain Veilleux,3.63,3.022,2
+Stefano Villani,3.63,3.28,2
+Janna Wasilewski,3.63,2.68,2
+Aubrey W. Williams,3.63,3.398,2
+John Lawrence Witzleben,3.63,3.2,2
+Amita V. Sarin,3.62,3.263,5
+Raymond J. StLeger,3.62,2.869,17
+Kasso A. Okoudjou,3.62,2.683,22
+Nelson Padua-Perez,3.62,3.039,34
+Andrea Bonito,3.61,3.101,5
+Matthew Bobrowsky,3.61,2.584,7
+Ann Riesbeck DiClemente,3.61,3.702,7
+Byrn Booth Quimby,3.61,3.0,10
+Francis B. Alt,3.61,3.187,11
+Gary A Cohen,3.61,3.57,11
+Andrei Vedernikov,3.61,2.697,33
+David W. Kueker,3.6,2.723,6
+Oded Ra,3.6,3.219,5
+Salih Fendoglu,3.6,3.144,3
+Alfred A. Moss,3.6,3.35,3
+Jose M. Naharro-Calderon,3.6,3.388,3
+Dominic J. Palumbo,3.6,3.047,3
+David M. Hammer,3.6,2.986,13
+John Goo,3.59,3.015,8
+Alison Flatau,3.59,3.524,7
+Michelle Suzanne Lang Boswell,3.58,2.862,4
+Eleonor Grace Castillo,3.58,3.481,4
+Sarah Elizabeth Croco,3.58,3.089,4
+Ugo Piomelli,3.58,2.979,4
+Aravind Srinivasan,3.58,3.164,4
+George Syrmos,3.58,3.518,4
+Leonard S. Taylor,3.58,2.873,4
+Kenneth Tuite,3.58,2.952,4
+Melissa N Hayes-Gehrke,3.58,2.788,31
+Satyendra Kumar Verma,3.58,3.101,2
+Wesley G. Lawson,3.57,3.228,29
+Bettina Judd,3.56,3.811,6
+Thomas E. Lowderbaugh,3.56,3.431,6
+Neil Spring,3.56,3.353,6
+Rebekah Ann Cunningham,3.56,3.3,7
+Andre L. Tits,3.55,2.859,8
+John J. Wallis,3.54,3.05,10
+John L. Caughey,3.54,3.281,2
+Jens Gerlach Christensen,3.54,2.745,2
+James F. Klumpp,3.54,3.057,2
+Arthur Piszczatowski,3.54,3.5,2
+Louis Andrew Eisenhau,3.54,3.56,3
+Ryan Fanselow,3.54,2.808,3
+Michael John Keller,3.54,2.677,3
+Casey Cremins,3.54,2.732,23
+Giridhar Nandikotkur,3.54,3.228,12
+Joseph P. Bailey,3.53,3.774,6
+Jeffrey S. Jensen,3.52,2.804,21
+John Aloimonos,3.52,3.51,5
+Michael C. Ma,3.52,3.105,4
+Rhonda K. Reger,3.52,3.578,4
+Sameer B. Shah,3.52,3.409,4
+Charles D. Levermore,3.52,2.844,29
+Paul Landau,3.51,2.891,7
+John Neri,3.51,2.679,52
+Thomas R. Holtz,3.51,3.583,11
+Charles R. Lilley,3.51,2.838,11
+James Vaughn Green,3.5,3.82,7
+Yui Suzuki,3.5,3.119,7
+Katherine Elizabeth Young,3.5,3.021,7
+Pedro Barbosa,3.5,3.41,1
+Michael David Be,3.5,3.337,1
+Richard E. Berg,3.5,3.083,1
+Ben Nkafu Bezejouh,3.5,2.609,1
+Patrick Kevin Boyle,3.5,2.555,1
+Robert L. Buchanan,3.5,3.386,1
+Alessandra Buonanno,3.5,3.274,1
+Deborah A. Cai,3.5,3.011,1
+Alejandro Caneque,3.5,3.061,1
+Catherine E. Carr,3.5,3.379,1
+Soo Eun Chae,3.5,3.246,1
+Janet Chernela,3.5,3.444,1
+Nikhil Chopra,3.5,2.988,1
+Molly Marie Clever,3.5,2.943,1
+Merle Collins,3.5,3.309,5
+Michelle Elizabeth Costanzo,3.5,3.864,1
+Allen P. Davis,3.5,2.673,1
+Amanda Dawn Delaney,3.5,3.479,1
+Jeffrey J. DeStefano,3.5,3.541,1
+Donald Lad DeVoe,3.5,3.368,1
+Sarah F. Djamshidi,3.5,3.826,1
+Michael N. Evans,3.5,3.325,1
+Bridget Kay,3.5,3.391,1
+Mark I. Freidlin,3.5,3.342,1
+Barbara Gerratana,3.5,2.798,1
+Jennifer Ann Golbeck,3.5,3.703,5
+Robert Thornton Grimm,3.5,3.597,1
+James M. Hagberg,3.5,2.957,1
+Christopher T. Hanson,3.5,3.474,1
+Rodney Harrell,3.5,3.434,1
+Liam Healy,3.5,2.93,1
+Donald R. Hitchcock,3.5,3.468,1
+Nathan Eric Hultman,3.5,3.572,1
+John J. Jeka,3.5,2.673,1
+Emily Robyn Kasper,3.5,3.423,1
+Sujay Kaushal,3.5,3.777,1
+Harol Eleanor Kerkham,3.5,3.065,1
+Samir Khuller,3.5,3.153,1
+Dae Young Kim,3.5,3.164,1
+Donald W. Kleine,3.5,3.439,1
+Deborah Jean Koch,3.5,2.803,1
+Elif Kuz,3.5,2.79,1
+Anne Jooyoung Lee,3.5,3.772,1
+Jing Lin,3.5,3.826,1
+Jianmei Liu,3.5,3.71,1
+KJ Ray Liu,3.5,3.346,1
+Emily Sarah Mann,3.5,3.286,5
+Stephen R. McDaniel,3.5,2.73,1
+Tyler Caroline Mills,3.5,3.338,1
+Goldie Melissa Morton,3.5,2.953,1
+Ricardo H. Nochetto,3.5,3.0,1
+Rob P Ol,3.5,2.783,1
+Jo B. Paoletti,3.5,3.393,1
+Clare Parsons,3.5,3.518,5
+yh Patt,3.5,3.211,1
+Robert Pernick,3.5,3.478,1
+Hanno Petras,3.5,3.218,1
+Vincent John Picciuto,3.5,2.486,1
+Rachel T. Pinker,3.5,2.988,1
+Wendy Tobie Povitsky,3.5,3.068,1
+Daniel Nelson Pressley,3.5,3.064,1
+Scot M. Reese,3.5,3.728,1
+Yi Ren,3.5,3.573,1
+Eugene S. Robinson,3.5,3.082,1
+Roger H. Rubin,3.5,2.911,1
+Steven H. Rutledge,3.5,3.092,1
+Jillet Sarah Sam,3.5,3.034,1
+Francis Joseph Schork,3.5,2.983,1
+Nitish Ranjan Sinha,3.5,3.548,1
+Jane Margaret Sitarz,3.5,3.653,1
+Delaram Soltani,3.5,3.736,1
+Mary Elizabeth Switalski,3.5,3.394,1
+Katerina V. Thompson,3.5,3.522,5
+Marie L. Troppe,3.5,3.05,1
+Kozue Tsunoda,3.5,3.672,1
+Mary Kay Vaughan,3.5,3.312,1
+Jafar Vossoughi,3.5,3.666,1
+Youfu Wei,3.5,3.43,1
+Peter Wien,3.5,3.034,1
+Bo Xie,3.5,3.898,1
+Wei You,3.5,3.5,1
+Julie E Zdanoski,3.5,3.518,1
+Ke Z,3.5,2.613,1
+Donald B. Barker,3.5,3.125,3
+Daniel A. Butts,3.5,3.5,3
+Alice Elizabeth Donlan,3.5,3.271,3
+Thomas Earles,3.5,3.505,3
+Daniel S. Gruner,3.5,3.51,3
+Thomas J. Haines,3.5,3.213,3
+Penelope M. Koines,3.5,2.966,3
+Almila Ozdek,3.5,3.674,3
+Paul M. Pietroski,3.5,3.195,3
+Ivette Rodriguez-Santana,3.5,3.199,3
+Vibha Sazawal,3.5,3.236,3
+Robert Allen Sohlberg,3.5,3.141,3
+Robert L. Vann,3.5,2.895,9
+Betsy Mendelsohn,3.49,3.53,6
+Chau-Wen Tseng,3.49,2.962,13
+Richard Payne,3.48,3.245,31
+Richard F. Ellis,3.48,3.038,11
+Alan C,3.47,3.179,13
+Lisa F Friedman,3.47,2.758,54
+Marjorie S. Venit,3.46,3.42,7
+Grace Deming,3.46,3.066,17
+Robert W. Newcomb,3.45,3.344,5
+Elizabeth Hayley Veisz,3.45,3.269,5
+Philip J Gloor,3.45,2.604,3
+William Richard Jeffery,3.45,3.328,8
+Shirley W. Logan,3.45,2.954,3
+Daphne De Freitas Soar,3.45,3.358,8
+Min Ouyang,3.45,2.951,7
+Samuel J. Kerstein,3.44,2.932,11
+Ralph R. Bauer,3.44,3.101,6
+Bartlomiej K. Kaminski,3.44,3.321,6
+Steven Daniel Kleinman,3.44,3.027,6
+Ana Patricia Rodriguez,3.44,3.406,6
+Daniel R. Vincent,3.44,2.863,6
+Miao Yu,3.44,3.253,6
+Susan D. Moeller,3.44,3.412,17
+Marilee Lindemann,3.42,2.678,3
+Peter Shawhan,3.42,2.949,15
+Kenton Martin Camper,3.42,2.728,4
+Catherine C. Fenselau,3.42,2.928,4
+Timothy Horiuchi,3.42,2.981,4
+Peng Huang,3.42,3.347,4
+Michael P. Morreau,3.42,2.956,4
+Natalie Marie Schell-B,3.42,2.871,4
+William J. Higgins,3.41,2.764,49
+Matei Machedon,3.41,2.906,30
+Yavuz A. Oruc,3.41,3.217,9
+Lei Zhou,3.4,3.379,6
+Howard Frank,3.4,2.922,19
+Anne E. Simon,3.4,2.792,45
+Paul Vincent Haynos,3.39,3.23,6
+John T Foust,3.39,3.326,7
+Kendrall C. Hardy,3.39,2.963,7
+Ahmad Kazemi Moussavi,3.39,3.442,3
+Alberto Bolatto,3.38,3.022,4
+Amde M. Amde,3.38,3.687,2
+Stefania R. Amodeo,3.38,3.406,2
+Anne Ander,3.38,3.424,2
+Ian Appelbaum,3.38,2.686,2
+William Arbaugh,3.38,2.967,2
+John H. Brown,3.38,3.317,2
+Steven Gregory Buzinski,3.38,3.552,2
+Hsiu-Fen Chien,3.38,3.41,2
+Hal Daume,3.38,3.886,2
+Theodore Kwaku Dayie,3.38,3.0,2
+Sonalde B. Desai,3.38,3.625,2
+Mark Engelbert,3.38,3.176,2
+Robyn Alisson Epstein,3.38,3.763,2
+J Norman Hansen,3.38,2.865,2
+Zahara Heckscher,3.38,3.604,2
+Saswata Hier-Majumder,3.38,3.094,2
+Rebecca J Holden,3.38,3.237,2
+Sandra May Jacobsen,3.38,3.318,2
+Vinod Kumar Jain,3.38,3.538,2
+Tadeusz A. Lapinski,3.38,3.768,2
+Shunlin Liang,3.38,3.205,2
+Aaron J. Martin,3.38,2.966,2
+John Rosser Matthews,3.38,3.25,2
+John W. Jr. Merck,3.38,3.408,2
+Eyda M Merediz,3.38,3.2,2
+Ellen A. Moll,3.38,3.503,2
+Irwin Lester Morris,3.38,3.441,2
+Ling Na,3.38,3.427,2
+Sheri L. Parks,3.38,3.343,2
+Jennifer Ann Phillips,3.38,3.672,2
+Karen L. Prestegaard,3.38,3.105,2
+Paul Scham,3.38,3.204,2
+Heidi Cathryn Molly Scott,3.38,3.194,2
+Joel Simmons,3.38,3.065,2
+Ashley Larsen Southard,3.38,3.329,2
+Mark A. Taranto,3.38,3.731,2
+Grace L. Yang,3.38,3.045,2
+Jingwei Yu,3.38,3.449,2
+Henry Clifford Boyd,3.37,3.16,18
+Bongtae Han,3.37,3.233,5
+Gregory M. John,3.37,2.74,5
+Peter Weiss,3.37,3.444,13
+John Cumings,3.36,3.66,5
+Katherine R. King,3.36,3.545,5
+Tara Ann McClelland,3.36,3.077,5
+Jonathan Z. Simon,3.36,3.116,5
+In-Young Yeo,3.36,3.146,5
+Roxanne Lefkoff,3.35,3.577,24
+Jacqueline Wallen,3.35,3.302,6
+Karol E. Soltan,3.35,3.286,8
+Jungho Kim,3.35,3.168,11
+Linda K. Coleman,3.34,2.707,9
+Marco Colombini,3.33,3.231,5
+David Freund,3.33,2.892,10
+Piotr T. Swistak,3.33,2.892,10
+Jason D. Kahn,3.33,3.114,25
+John Ham,3.32,2.932,9
+Theodore L. Einstein,3.32,3.226,5
+Douglas P. Hamilton,3.32,2.797,25
+Sandra C. Greer,3.31,2.753,6
+Nicole A. LaRonde-LeBlanc,3.31,3.024,6
+Michael Lester Finch,3.31,3.314,14
+Robert D. Hudson,3.31,3.269,11
+Howard I. Bassen,3.3,3.325,3
+Joseph E. Byrne,3.3,3.267,3
+Alexandra Calloway,3.3,3.687,3
+Amy L Corbin,3.3,2.994,3
+Eric Curry,3.3,2.979,3
+Robin Earnest,3.3,3.127,3
+Geoffrey B. Gilbert,3.3,3.462,3
+William M. Hammond,3.3,3.777,3
+Kara Hoffman,3.3,3.141,3
+Kenneth T. Kiger,3.3,2.944,9
+Rowena Rowie Jean-Louise K,3.3,3.458,3
+Matthew G. Kirschenbaum,3.3,3.364,3
+Clyde P. Kruskal,3.3,2.945,18
+Alene Moyer,3.3,3.413,3
+Stanley J. Odell,3.3,3.13,3
+Carla L. Peterson,3.3,2.965,3
+Whitman H. Ridgway,3.3,2.889,3
+Edmond Shenassa,3.3,3.5,3
+Larry Hajime Shinagawa,3.3,3.595,3
+Donald Sutherland,3.3,2.889,3
+Cheryl Annette Tobler,3.3,3.75,3
+Suresh C. Tonwa,3.3,3.799,3
+Steven A. Tretter,3.3,2.943,3
+Herman O Sintim,3.29,2.992,18
+Jason R Rudy,3.29,3.255,9
+Athanasios Tzavaras,3.28,2.813,6
+Sandra Cerrai,3.28,2.886,7
+Meryem Cherrouk,3.28,3.698,7
+David A. Crocker,3.28,3.55,7
+Emily Susan Conover,3.28,3.742,1
+John B. Carlson,3.28,3.779,19
+Barnet C. Corwin,3.28,3.656,10
+Jennifer Catherine Gibbs,3.26,2.991,7
+Dennis R. Herschbach,3.25,3.031,7
+Alexander Barg,3.25,3.011,4
+Kevin Dayaratna,3.25,3.756,4
+Paul S. Herrnson,3.25,2.88,8
+Chila Beatriz Hidalgo,3.25,3.704,2
+John G. Leishman,3.25,3.657,4
+Stephen Crandall McGuinn,3.25,3.058,4
+Sarah Rowena Pleydell,3.25,3.819,4
+Laura Michelle Quijano,3.25,3.217,4
+A.U. Shankar,3.25,3.031,4
+Eva Marie Stehle,3.25,3.231,17
+Michelle M. Hugue,3.25,2.923,29
+Ronald Wilfredo Luna,3.24,3.25,25
+Timothy John Pilachowski,3.22,2.909,34
+Stanley Plumly,3.22,3.066,8
+Deepa Anagondaha,3.21,3.267,5
+Francene Engel,3.21,3.202,5
+Robert N. Gaines,3.21,3.121,5
+Henry Duval Gregory,3.21,3.745,5
+Peter J. Keleher,3.21,2.888,5
+Mary Pittas-Herschbach,3.21,3.37,5
+Deborah S. Rosenfelt,3.21,3.627,5
+Judith Tenney,3.21,2.784,5
+Thomas Zeller,3.21,3.425,5
+Joseph Brami,3.21,3.683,2
+Kaori Nakamura,3.21,2.732,8
+Robert E. Koulish,3.2,3.189,13
+Joseph J. Lengermann,3.19,2.891,10
+Songhua Lin,3.19,3.089,6
+William F. McDonough,3.18,3.235,3
+Edward Ott,3.18,3.384,2
+Henry S. Terrell,3.17,2.98,20
+Lutf Y. Alkebsi,3.17,3.405,1
+Yusuf A. Azizullah,3.17,3.765,1
+James D. Baeder,3.17,3.609,1
+Keith David Bergstresser,3.17,2.977,1
+Vincent Carretta,3.17,3.135,1
+Thomas W. Castonguay,3.17,3.466,1
+Christopher C Chabalko,3.17,2.619,1
+Richard K. Cross,3.17,3.203,1
+Jaydev Prataprai Desai,3.17,3.446,1
+Aaron Philip,3.17,2.858,1
+Valerie Lee Durham,3.17,3.607,1
+Andrew L. Egel,3.17,3.281,1
+Joshua Ellis,3.17,3.127,1
+William Fredric Fagan,3.17,3.692,1
+Adriane Fang,3.17,3.437,1
+Michael Faulkender,3.17,3.354,1
+Marcus Franda,3.17,3.155,1
+Stephanie Kay Graham,3.17,3.252,1
+Patricia S. Greenspan,3.17,2.981,1
+Dora A. Hanninen,3.17,2.893,1
+Miriam Isaacs,3.17,3.683,1
+Abbas Jamshidi,3.17,2.562,1
+Ran Ji,3.17,2.951,1
+Benjamin Kedem,3.17,3.394,7
+Jennifer Nash Little,3.17,3.788,1
+Bonnie Blythe Mackintosh,3.17,3.152,1
+Emily M. Manus,3.17,3.011,1
+Pino Martin,3.17,3.383,1
+David Michael Mazeika,3.17,2.727,1
+Angel Love Miles,3.17,3.666,1
+Aaron Patrick Mulhollen,3.17,3.338,1
+Alexandra Newman,3.17,3.443,1
+Janay Yvonne Queen,3.17,3.531,1
+James V. Riker,3.17,3.746,1
+Joyce Christine Alexis Riter,3.17,2.876,1
+Allen Schick,3.17,3.543,1
+Giorgo Theodoro Sertsios,3.17,2.622,1
+Alan L. Sussman,3.17,2.926,7
+Carlene M.,3.17,3.198,1
+Juan Uriagereka,3.17,3.373,1
+Rhondie L. Voorhees,3.17,3.637,1
+Leslie A. Walker,3.17,3.682,1
+Chunsheng,3.17,3.654,1
+Tony L. Whitehead,3.17,3.562,1
+Britt S Wilkenfeld,3.17,3.434,1
+Ellen D. Williams,3.17,2.921,1
+Margaret M. Wrobleski,3.17,3.497,1
+Eric J. Zanot,3.17,2.761,1
+Xiaoping Zhu,3.17,3.329,1
+Cynthia Lynn Clement,3.15,2.934,21
+Michael Jakobson,3.15,2.808,13
+Mikhail Dolbilov,3.15,3.378,3
+James Z. Gao,3.15,3.041,3
+Richard A. Hutchins,3.15,3.424,8
+Konstantinos Dennis Papadopoulo,3.14,3.064,4
+Alice C. Mignerey,3.14,2.94,15
+Maria S. Fleri,3.14,3.423,9
+Agisilaos Iliadis,3.13,3.577,6
+Edgar George Lopez-Escobar,3.13,2.969,6
+Ibrahim K. Ali,3.13,3.006,2
+Anthony Vincent Banes,3.13,3.377,2
+Aristos Christou,3.13,3.582,2
+Bryan Clift,3.13,3.503,2
+James G. Gimpel,3.13,3.456,2
+Vivian E. Hoffmann,3.13,3.225,2
+Richard Mark Hollenbec,3.13,3.805,2
+Karen R. Lips,3.13,4.0,2
+Ho Jung Paik,3.13,2.875,2
+Janet M T,3.13,3.396,2
+Guita Vafai,3.13,3.676,2
+Gerald S. Wilkinson,3.13,3.159,2
+Karen Wou,3.13,3.462,2
+Tatiana Yarmola,3.13,3.309,2
+Ronit Eisenbach,3.12,3.243,24
+Radu Lazar,3.12,2.91,42
+Gilmer L. Blankenship,3.11,3.391,12
+Natalia L. Whit,3.1,3.213,6
+Gregory Scott Jackson,3.1,3.245,7
+Gerard Emmett Evans,3.1,3.895,3
+Elizabeth Anne Fixsen,3.1,3.008,3
+Brenda L Frederi,3.1,3.033,3
+Andrea Marie Frisch,3.1,3.421,3
+Marla S. McIntosh,3.1,3.487,3
+Christopher Monroe,3.1,3.016,3
+Sarah C Penniston-Dorland,3.1,2.942,3
+Joonil Se,3.1,3.466,3
+Min Wang,3.1,3.601,3
+Peter J. Coughlin,3.1,2.759,21
+James H. Duncan,3.08,3.406,4
+Valentine C Hacquard,3.08,3.663,4
+Jerrold Levinson,3.08,2.984,4
+Safoura Nourbakhsh,3.08,3.234,4
+Gary Wayne Pennington,3.08,2.995,4
+Nicholas Roussopoulos,3.08,2.872,4
+Jose G. Suarez,3.08,3.923,16
+John P Fisher,3.08,3.364,8
+Ki-Yong Kim,3.07,3.303,5
+Nathan Kelber,3.07,3.024,11
+Harland M. Glaz,3.07,3.118,10
+Rebecca Joy Ritzel,3.07,3.411,10
+Frederick Khachik,3.06,2.767,56
+Mark A. Austin,3.06,3.247,6
+Kenneth G. Holum,3.06,2.916,6
+Tod Earl Jones,3.06,3.241,6
+Mehrdad Mashayekhi,3.06,2.692,8
+Jeffery B. Klauda,3.06,3.125,5
+Robert D. Friedel,3.05,3.044,16
+Dalida R. Kadyrzhanova,3.04,3.639,2
+Jeffrey W. Shultz,3.04,2.688,2
+Barbara Jones Singer,3.04,3.262,2
+Reid S. Compton,3.04,2.961,12
+Dorith Grant-Wisdom,3.03,3.23,20
+Martha E. Geores,3.03,3.397,4
+Shayna Maskell,3.03,3.163,4
+Raluca I. Rosca,3.03,2.32,4
+Kazim Ruhi,3.02,3.377,25
+Thomas Carlson,3.01,3.341,5
+Shannen Lee H,3.01,3.308,5
+Peter G. Morici,3.0,3.79,3
+Marc A. Rogers,3.0,2.94,3
+David C. Lay,2.99,2.732,12
+Cathy W. Barks,2.99,3.873,8
+Xiaoqing Wang,2.99,3.383,9
+Donald R. Perlis,2.98,3.061,13
+Linda M. Lachman,2.98,3.5,4
+Adam Pellegrini,2.98,3.0,4
+Melissa Macasieb,2.98,2.857,33
+Linda Kauffman,2.98,2.963,5
+Manuel Humberto Tiglio,2.97,3.373,10
+Emily Landau,2.97,3.07,6
+Lois T. Vietri,2.97,3.28,8
+Mary Helen Washington,2.97,2.881,8
+McBlaine Michael Boyle,2.96,2.797,25
+Edward F. Redish,2.95,3.095,11
+Ian A M Ward,2.95,3.471,9
+Kent L. Norman,2.93,3.696,8
+Carol Y. Espy-Wilson,2.93,2.764,5
+Nihal Celik,2.92,3.257,4
+Ramon E. Lopez,2.92,2.878,4
+Sivakumar Viswanathan,2.92,3.419,4
+Susan Elizabeth Hubbard,2.91,2.545,6
+Anna Alberini,2.9,3.237,3
+Jose Helim Aranda-Espinoza,2.9,3.636,3
+Stacey Marvetta Brown,2.9,3.318,3
+Amber Lynn Cohen,2.9,3.414,3
+William John Hanna,2.9,3.263,3
+J. Patrick Harrington,2.9,3.065,3
+Keith E. Herold,2.9,3.164,3
+Stanley M. Neuder,2.9,2.574,3
+Rosalia A. Saklas,2.9,2.87,3
+Vivianne Alejandra Salgado,2.9,3.677,3
+David A. Sartorius,2.9,2.925,3
+Martin C. Peckerar,2.9,3.147,10
+Stephen M. Mount,2.89,3.369,9
+John M. Newman,2.89,3.755,17
+Brandi Kristine Adams,2.88,4.0,2
+Ashok K. Agrawala,2.88,3.265,2
+Sreeramamurthy Ankem,2.88,3.468,2
+William Beecher,2.88,3.242,2
+Ed Berlinski,2.88,3.364,2
+Ramu Bish,2.88,2.731,2
+Bradley O. Boekeloo,2.88,3.271,2
+Jennie Chaplin,2.88,2.833,2
+Bruce Thomas Clarkson,2.88,3.245,2
+Jaime R. DeLuca,2.88,2.858,2
+Melissa Anne Ebbers,2.88,3.466,2
+Julie Ruth E,2.88,3.722,2
+Franklin J. Hildy,2.88,3.189,2
+Bei Lok Hu,2.88,3.024,2
+Jamison Brenner Kantor,2.88,2.7,2
+Alan Jay Kaufman,2.88,3.018,2
+Young-Sam Kwon,2.88,2.761,2
+Edward B. Magrab,2.88,3.094,2
+James Michael Marconi,2.88,3.45,2
+Mark Stephen Perencevich,2.88,3.993,2
+Stephen D. Prince,2.88,3.379,2
+Leslie S. Rowland,2.88,2.857,2
+Linda C. Schmidt,2.88,3.586,2
+Diana Mae Sims,2.88,3.461,2
+Gilbert W. Stewart,2.88,2.82,2
+Rhondda Robinson Thomas,2.88,3.983,2
+Bao Yang,2.88,3.418,2
+Dina A El-Hefnawy,2.87,3.437,4
+Theodore A. Jacobson,2.87,2.986,6
+Beryl Curry Bland,2.86,3.296,5
+James Farquhar,2.85,2.886,3
+Julius Goldhar,2.85,3.417,3
+Keguro Macharia,2.85,2.971,4
+Charles B. Silio,2.84,2.797,26
+Mohamad I. Al-Sheikhly,2.83,3.94,1
+Amy Lee Alford,2.83,2.891,1
+Kenneth H. Beck,2.83,2.975,1
+Brian J. Bequette,2.83,3.273,1
+Augusta Lynn Bolles,2.83,3.291,1
+Natasha J. Cabrera,2.83,3.743,1
+John C. Chao,2.83,3.102,1
+Kandice Chuh,2.83,3.034,1
+Marlene Cimons,2.83,3.578,1
+Jeffery M. Cooper,2.83,2.547,1
+Ebony N. Dashiell-Aje,2.83,3.158,1
+Alyson Elizabeht Doulos,2.83,2.916,1
+Howard Dennis Drew,2.83,2.441,1
+Djiby Fall,2.83,2.622,1
+Judith L Fitzgerald,2.83,3.763,1
+Asok Kumar Ghosh,2.83,2.939,1
+Lisa Marie Gill,2.83,2.703,1
+Brent Goldfarb,2.83,3.726,1
+Ali Haghani,2.83,3.086,1
+Aaron Philip Hoitink,2.83,2.979,1
+Jonathan Jay Kandell,2.83,3.48,1
+Theodore Frederic Kaouk,2.83,3.16,1
+Itir Z Karaesmen-Aydin,2.83,3.523,1
+Young Suh Kim,2.83,3.205,1
+David J. Kressler,2.83,3.264,1
+Albert S. Kyle,2.83,3.642,1
+David K. Y. Lei,2.83,3.713,1
+William Henry Lew,2.83,3.152,1
+Nuno Limao,2.83,2.703,1
+Martin P. Loeb,2.83,3.422,1
+Gina Marie Many,2.83,3.862,1
+Elizabeth Marlowe,2.83,2.908,1
+Peter Marvit,2.83,3.045,1
+Carol A. McAusland,2.83,3.323,1
+Anaya McMurray,2.83,3.348,1
+John Melngailis,2.83,3.167,1
+Jeffrey J Milton,2.83,3.487,1
+Rick Nelson,2.83,3.649,1
+Yildiz Nuredinosk,2.83,3.013,1
+Michael G. Pecht,2.83,3.575,1
+Sandra Jean Quinn,2.83,3.662,1
+Oliver Schlake,2.83,3.577,1
+Johnna Marie Schmidt,2.83,3.787,1
+Yasmeen Faroqi Shah,2.83,3.622,1
+Eric Victor Slud,2.83,3.337,1
+Robert H. Sprinkle,2.83,3.642,1
+Daniel W. Steinhilber,2.83,3.469,1
+Colleen Marie Terpos,2.83,0.0,1
+Suleyman Ulusoy,2.83,2.717,1
+Bruce A. VanSledright,2.83,3.915,1
+Charles F. Wellford,2.83,3.89,1
+Richard Wexler,2.83,3.235,1
+Christine Marie,2.83,3.279,1
+Ruth Enid Zambrana,2.83,3.157,1
+Guodong Gao,2.83,3.356,8
+Sally S. Simpson,2.82,3.135,3
+Tracy Marie Zeeger,2.82,3.426,10
+Ganesh Sriram,2.82,3.038,17
+Paul Michael Covey,2.81,3.646,6
+Alba Torrents,2.79,2.92,10
+Mila Zlatic,2.78,2.975,13
+George H. Lorimer,2.78,2.712,10
+Catalina Elena Kopetz,2.77,3.334,4
+Anthony Ephremides,2.76,2.69,6
+Ricardo C. Araneda,2.75,4.0,2
+Dimitrios Goulias,2.75,3.48,4
+Armand M. Makowski,2.75,2.719,4
+Miroslaw Jan Skibniewski,2.75,3.407,2
+Raymond L. Johnson,2.74,2.612,11
+Melanie Fai,2.74,3.387,10
+Julie Park,2.73,3.039,7
+Younghi K. Ramsey,2.73,3.519,7
+Jeanne E. Rutenburg,2.72,2.764,7
+Kerry W. Tripp,2.72,3.2,6
+Jandelyn Dawn Plane,2.71,2.681,33
+John A. Tossell,2.71,2.911,8
+Patricia T Spangle,2.71,3.2,6
+Joshua Luke Himmelsbach,2.71,2.899,2
+Eric M. Uslaner,2.71,3.152,2
+Shu Guang Zhang,2.71,2.83,2
+Tien-Mo Shih,2.71,2.944,10
+Lindsay Anne Bernal,2.7,3.101,3
+John Hart Cable,2.7,3.036,3
+Seung Yeal,2.7,2.886,3
+Eric S Haag,2.7,2.736,3
+Kristen M. Hines,2.7,3.682,3
+Larry L. Hunt,2.7,2.794,3
+Sahar Mohamed Khamis,2.7,3.096,3
+Erkut,2.7,2.611,9
+Eliot Bates,2.69,3.083,9
+Arthur Eckstein,2.69,2.974,9
+Ralph O. Dubayah,2.69,3.26,6
+Leonid Koralov,2.69,3.163,6
+Heven Sze,2.68,3.198,4
+Johanna K Birnir,2.67,3.327,10
+Nam Sun Wang,2.66,3.457,9
+Tracey Lynn Centorbi,2.66,3.163,25
+David I. Bigio,2.65,3.389,6
+Gosia Anna Langa,2.65,3.295,8
+Hayim Lapin,2.64,3.069,5
+Darius Bost,2.63,3.208,2
+Youngmi Cho,2.63,2.842,2
+Rafael A. Corredoira,2.63,3.397,2
+William M. Goldman,2.63,3.672,2
+Quynh Thu,2.63,2.862,2
+Matthew Ellery Pragel,2.63,2.691,2
+Roland T. Rust,2.63,3.428,2
+Paul M. Schonfeld,2.63,3.372,2
+Cagri Cahit Tanyol,2.63,3.118,2
+Nickolas G. Zimmermann,2.63,3.585,2
+Andrea L. Zukowski,2.63,3.578,2
+Ilias Balaras,2.62,2.861,5
+Edward L. Fink,2.62,2.947,5
+John R. Lampe,2.62,2.915,8
+Michelle Broo,2.61,2.739,17
+Gregory A. Pfeiffer,2.61,3.302,65
+Satindar M. Bhagat,2.61,2.696,12
+Jennifer Lynn Stewart Watson,2.6,2.833,17
+Jonathan M. Rosenberg,2.59,2.586,29
+Sangbok Lee,2.59,3.222,9
+Millard H. Alexander,2.58,2.934,4
+Christopher Cadou,2.58,3.173,4
+Manouchka Marie Poinson,2.58,3.368,4
+Marjorie L. Reaka,2.58,3.151,13
+Melissa Schettini Kearney,2.58,2.862,14
+William T. Stuart,2.57,3.206,12
+Timothy Joseph Jerome,2.57,2.963,9
+Earlene Armstrong,2.57,2.505,16
+Isabel K. Lloyd,2.57,3.316,11
+Danilo B. Romero,2.56,2.908,6
+Richard E. Klank,2.55,3.672,12
+Kathryn Anderson Alvestad,2.55,3.561,3
+Arthur William Herbig,2.55,3.062,3
+Rachelle L. Williams,2.55,3.127,3
+Abigail McEwen,2.54,3.335,2
+Theodore R. Kirkpatrick,2.53,2.859,15
+C. Robert Warner,2.53,2.891,20
+Louiqa Raschid,2.51,3.656,11
+Laurence Alan Herman,2.5,2.633,50
+Abram Kagan,2.5,3.067,7
+Imad A. Ahmad,2.5,3.457,3
+Andrea M. Chronis,2.5,3.866,3
+Dana S. Nau,2.5,2.986,3
+Michel Cukier,2.5,3.363,5
+Dmitry Dolgopyat,2.5,3.284,5
+Barbara E. Gaskill,2.5,3.135,5
+Karin Hanley Melnick,2.5,2.374,10
+Rochelle S. Newman,2.5,3.083,5
+Joyleen V. Sapinoso,2.5,3.388,5
+Richard Alan Wentworth,2.49,2.687,16
+Hanan Samet,2.49,3.295,7
+Martha Nell Smith,2.49,3.041,7
+Rabindra N. Mohapatra,2.48,2.874,9
+Charles B. Fenster,2.48,3.035,11
+Radu Victor,2.48,2.509,19
+Darayash Tata,2.47,2.917,22
+Ronald L. Lipsman,2.46,2.306,8
+Isabelle J. Gournay,2.45,3.402,4
+Dale Jay,2.45,2.973,4
+Nneka Ifeoma Ofulue,2.44,2.923,6
+Joel M. Cohen,2.43,3.005,18
+Gniesha Yvonne Dinwiddie,2.42,2.996,5
+Dennis Anthony Doster,2.42,2.748,4
+Bruce L. Golden,2.42,3.501,4
+Myron O. Lounsbury,2.42,3.083,4
+Katherine Josephine Stewart,2.42,3.388,4
+Miles L. Bradbury,2.41,2.957,10
+Mehmet Atif Ergun,2.41,2.53,9
+Georgios Skoulakis,2.4,3.153,5
+Oliver Kim,2.38,2.919,9
+John S. Baras,2.38,3.178,2
+Jeremy Best,2.38,2.958,2
+Elaine Eggleston Doher,2.38,2.817,2
+Robert H. Feldman,2.38,3.25,2
+Julie S. Gowin,2.38,3.726,2
+Emelina Hoyos,2.38,2.701,2
+Katherine Worboys Izsak,2.38,3.437,2
+Joan H Mooney,2.38,2.868,2
+Nicole Kristen Pekarsk,2.38,3.221,2
+Michael Eli Rosenberg,2.38,2.72,2
+Stella Rouse,2.38,3.031,2
+Tammy L. Sanders,2.38,2.708,2
+Mishelle Lissette Segui,2.38,3.135,2
+Li Tang,2.38,2.744,2
+Heidi Erika Tiedke,2.38,3.017,2
+Hsuchi Ting,2.38,3.351,2
+Arnold B. Woodall,2.38,3.603,2
+Yong Zheng,2.38,3.147,2
+Alice Carol Bonner,2.36,3.216,5
+Scott E. Hudson,2.36,3.522,5
+Liora Moriel,2.36,3.247,5
+David J. Lovell,2.35,3.486,8
+Melda Yaman Oruc,2.34,2.754,6
+Sean Rostami,2.34,2.428,6
+Robert T. Jackson,2.34,2.619,11
+James J McKinney,2.34,3.349,23
+Kazuo Nakajima,2.34,3.005,22
+Sara Via,2.33,2.709,40
+Evandro Gurgel Do Amaral,2.33,3.487,11
+Ceil Goldberg,2.32,3.177,9
+Marvin W. Scott,2.32,2.969,4
+Joanne B. Zimmerman,2.32,3.072,4
+Maryann McDermott Jones,2.32,3.068,60
+Kurt Finsterbusch,2.31,3.094,6
+L Angelo Gomez,2.3,3.57,3
+Russell T. Hill,2.3,3.231,3
+Gregory S. Jenkins,2.3,2.5,3
+Charles Francis Delwiche,2.3,2.852,26
+Richard E. Schwartz,2.3,3.036,4
+Elizabeth Ann McClure,2.3,2.896,5
+Evan B. Golub,2.29,2.837,34
+Michael Sebastian Winett,2.29,3.509,10
+Daniel J. Steffek,2.27,2.829,41
+Tamara Tashiko Walden,2.26,2.827,5
+Vitali Tugarinov,2.26,2.869,8
+Alicia V,2.26,2.889,8
+Peter Wolfe,2.25,2.615,27
+Mark Douglas Arnold,2.25,3.208,4
+Shuvra S. Bhattacharyya,2.25,3.337,4
+Soheila Ebrahimian,2.25,2.645,6
+Luz Martinez-Miranda,2.25,3.641,4
+Janet Wagner,2.25,3.569,4
+Sebastian S Wang,2.25,3.776,4
+Boden C. Sandstrom,2.24,3.341,16
+Wendy A. Jacobs,2.23,3.17,13
+David William Knobel,2.23,3.222,6
+Hsing-Hen Chen,2.23,3.022,16
+William J. Schatz,2.21,2.974,19
+Frances F. Gulick,2.17,2.51,48
+Elisabeth Smela,2.16,2.911,6
+Janice Reutt-Robey,2.15,2.849,9
+Jennifer Armstrong,2.14,3.969,9
+Charles G. Stangor,2.12,3.209,35
+Candace Mikki Coyle,2.12,2.938,11
+David L. Lalman,2.11,3.421,9
+Walter L. Knorr,2.11,3.54,4
+Woo Young Lee,2.1,3.835,3
+Raquel Antonia Peat,2.1,3.357,3
+John P. Robinson,2.1,2.982,3
+Jason Anthony Nichols,2.1,2.853,14
+Kelli Ann Skinner,2.1,3.347,7
+Richie Allen Crider,2.1,3.383,6
+Peter C. Chang,2.09,3.008,18
+Sangeetha Madhavan,2.08,2.943,8
+Michelle Anthonette,2.08,3.184,4
+Michael P Doyle,2.08,3.68,4
+Veena K,2.08,2.688,4
+Giovanni Fo,2.07,3.274,14
+Diane Y. DeFries,2.07,3.002,9
+Donald R. Riley,2.07,3.31,5
+Amy S. Mullin,2.06,2.875,11
+Kate L McGann,2.05,3.281,4
+Barry P. Smith,2.04,2.644,22
+Wolfgang Losert,2.04,3.028,7
+Allan Drazen,2.03,2.979,8
+Damion Lamar Thomas,2.02,3.257,25
+Brian D. McKenzie,2.02,3.598,5
+William Hawkins,2.02,3.475,12
+Oliver J. Hao,2.02,3.073,8
+John M. Ondov,2.0,2.701,16
+Gerald Borgia,2.0,2.909,15
+Charles R. Hulten,1.95,3.098,17
+Carissa Ann Liro-Hudson,1.9,3.352,5
+Richard Joseph Toth,1.9,2.934,7
+Mikhail A. Anisimov,1.9,3.365,6
+Paula F Nadler,1.9,3.667,6
+Maria K. Cameron,1.88,3.0,14
+Arthur T. Johnson,1.88,3.125,17
+George C. Goldenbaum,1.87,2.767,5
+Carolyn Clymer Voorhees,1.83,3.159,7
+Wendell T. Hill,1.79,2.75,6
+David L. Akin,1.79,3.672,5
+Spencer A. Benson,1.76,2.851,18
+Stacey Brooke Daughters,1.73,2.659,8
+Sandra Hadler,1.72,2.789,23
+Derek A. Boyd,1.72,2.825,8
+Devarajan Thirumalai,1.71,2.343,13
+Monique Mitchell Turner,1.71,2.998,11
+Thomas J. Capo,1.63,2.613,25
+Damyana Bakardzhieva,1.61,2.655,13
+Ellen L. Blumner,1.61,3.222,7
+Andris Skuja,1.55,2.952,8
+Alfred C. Boyd,1.54,2.493,27
+Karen Gold,1.44,2.973,87
